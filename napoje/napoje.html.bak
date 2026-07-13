@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="katarzyna19">
+        <title>Obrazki</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="kontener">
+            <center>
+				<img src="img/kawa.png"/>
+				<img src="img/sok.png"/>
+				<img src="img/herbata.png"/>
+			</center>
+        </div>
+    </body>
+</html>
